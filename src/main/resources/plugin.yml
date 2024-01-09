@@ -1,0 +1,4 @@
+name: WixnerCore
+version: '${project.version}'
+main: dev.santih.wixnercore.WixnerCore
+api-version: 1.19

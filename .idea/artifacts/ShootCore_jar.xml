@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShootCore:jar">
+    <output-path>$PROJECT_DIR$/../Spigot Development</output-path>
+    <root id="archive" name="ShootCore.jar">
+      <element id="module-output" name="WixnerCore" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Development/Spigot/Projects/Strike/target/Strike-1.0-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/co/aikar/acf-paper/0.5.1-SNAPSHOT/acf-paper-0.5.1-20230802.161932-28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/4.10.2/mongodb-driver-core-4.10.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/dev/morphia/morphia/morphia-core/2.3.7/morphia-core-2.3.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/bson/4.10.2/bson-4.10.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-sync/4.10.2/mongodb-driver-sync-4.10.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-legacy/4.8.1/mongodb-driver-legacy-4.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/spotbugs/spotbugs-annotations/4.7.3/spotbugs-annotations-4.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/github/classgraph/classgraph/4.8.153/classgraph-4.8.153.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.14.4/byte-buddy-1.14.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/bson-record-codec/4.10.2/bson-record-codec-4.10.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

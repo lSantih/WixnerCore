@@ -1,0 +1,4 @@
+name: WixnerCore
+version: '1.0-SNAPSHOT'
+main: dev.santih.wixnercore.WixnerCore
+api-version: 1.19
